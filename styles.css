@@ -1,0 +1,13 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  }
+  .selector, .card-footer{
+    text-align: center;
+  }
+  .card {
+    margin: 15px auto;
+  }
+  .col-lg-4{
+    margin: 5px auto;
+  }
